@@ -74,3 +74,6 @@ To develop <ins>__*better-than-coin-flip*__</ins>, we can utilize a mix of techn
 ### Output:
 - A creatively generated nudge or suggestion based on the user's input.
 - An interactive user interface displaying the nudge.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
