@@ -5,6 +5,7 @@
 ## Contents
 - [Project Overview](#overview)
   - [Objectives](#obj)
+- [Roadmap](#map)
 - [Technologies & Programming Languages](#tech)
 - [Basic Workflow](#flow)
 - [Basic I/O Details](#io)
@@ -25,6 +26,14 @@ The main objective of <ins>__*better-than-coin-flip*__</ins> is to offer users a
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ----------------
+
+<a name="map"></a>
+## Roadmap
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+----------------
+
 
 <a name="tech"></a>
 ## Technologies & Programming Languages
